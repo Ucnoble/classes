@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block{
+    border-radius: 50px;
+    width:700px ;
+    height:600px ;
+    border: 3px solid yellow;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+.mouth{
+    width: 200px;
+    height: 200px;
+    border: 3px solid yellow;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin: auto;
+    margin-top: 70px;
+    position: absolute;
+    top: 25%;
+    right: 42%;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border: 30px solid brown;
+    background-color: yellow;
+    border-radius: 70%;
+    margin-top :120px; 
+    margin: auto;
+  }
+.dash{
+    width: 100px;
+    height: -5px;
+    border: 3px solid yellow;
+    margin: auto;
+    position: absolute;
+    top: 37%;
+    right: 46%;
+}
+.card1{
+    position:absolute;
+    top: 5%;
+    right: 40%;
+}
+.card2{
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+.rectangle{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: red;
+}
+.rectan{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+}

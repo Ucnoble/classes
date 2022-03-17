@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: inline-block;
+    background-color: #6aff;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid red;
+    width: 500px;
+}
+.content{
+    display: inline-block;
+    background-color: #ff6;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid red;
+    width: 500px;
+}
